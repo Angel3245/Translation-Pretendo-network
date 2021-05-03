@@ -8,7 +8,7 @@
 	"hero": {
 		"subtitle": "Servidores de juego",
 		"title": "Recreado",
-		"text": "Pretendo es un remplazo gratuito y de código abierto de los servidores de Nintendo para 3DS y Wii U que permite la comunicación en línea incluso después del cierre de los servidores oficiales.,
+		"text": "Pretendo es un remplazo gratuito y de código abierto de los servidores de Nintendo para 3DS y Wii U que permite la comunicación en línea incluso después del cierre de los servidores oficiales.",
 		"buttons": {
 			"readMore": "Leer más"
 		}
@@ -53,7 +53,8 @@
 			},
 			{
 				"question": "Si estoy baneado en Nintendo Network, ¿seguiré baneado al usar Pretendo?",
-				"answer": "No tenemos acceso a los baneos de Nintendo Network,  y todos los usuarios no serán baneados en nuestros servicios. Sin embargo, tendremos reglas a seguir cuando se usen nuestros servicios y no hacerlo resultará en un baneo.						},
+			"answer": "No tenemos acceso a los baneos de Nintendo Network,  y todos los usuarios no serán baneados en nuestros servicios. Sin embargo, tendremos reglas a seguir cuando se usen nuestros servicios y no hacerlo resultará en un baneo."				
+			},
 			{
 				"question": "¿Pretendo soportará Wii/Switch?",
 				"answer": "La Wii ya tiene servidores personalizados de parte de <a href=\"https://wiimmfi.de/\" target=\"_blank\">Wiimmfi</a>. No tenemos planeado trabajar con Switch ya que sus servidores son de pago y completamente diferentes a los de Nintendo Network."
