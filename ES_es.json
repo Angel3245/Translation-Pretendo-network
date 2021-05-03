@@ -6,9 +6,9 @@
 		"progress": "Progreso"
 	},
 	"hero": {
-		"subtitle": "Servidores de juego",
-		"title": "Recreado",
-		"text": "Pretendo es un remplazo gratuito y de código abierto de los servidores de Nintendo para 3DS y Wii U que permite la comunicación en línea incluso después del cierre de los servidores oficiales.",
+		"subtitle": "Servidores en línea",
+		"title": "Recreados",
+		"text": "Pretendo es un reemplazo gratuito y de código abierto de los servidores de Nintendo para 3DS y Wii U que permite la comunicación en línea incluso después del cierre de los servidores oficiales.",
 		"buttons": {
 			"readMore": "Leer más"
 		}
@@ -16,7 +16,7 @@
 	"aboutUs": {
 		"title": "Sobre nosotros",
 		"paragraphs": [
-			"Pretendo es un proyecto de código abierto que busca recrear Nintendo Network para 3DS y Wii U aplicando ingeniería inversa con un diseño de sala limpia.",
+			"Pretendo es un proyecto de código abierto que busca recrear Nintendo Network para 3DS y Wii U aplicando ingeniería inversa con un diseño en sala limpia.",
 			"Como nuestros servicios serán gratuitos y de código abierto, podrán existir tras el inevitable cierre de Nintendo Network."
 		]
 	},
@@ -33,15 +33,15 @@
 		"QAs": [
 			{
 				"question": "¿Qué es Pretendo?",
-				"answer": "Pretendo es un remplazo de código abierto de Nintendo Network con el objetivo de crear servidores personalizados para las consolas Wii U y 3DS. Nuestra meta es preservae las funcionalidades en línea de esas consolas, permitiendo a los jugadores seguir jugando sus juegos favoritos de Wii U y 3DS en su plena capacidad."
+				"answer": "Pretendo es un reemplazo gratuito y de código abierto de Nintendo Network que nace con el objetivo de crear servidores en línea personalizados para las consolas Wii U y 3DS. Nuestra meta es preservar las funcionalidades en línea de esas consolas, permitiendo a los jugadores seguir jugando sus juegos favoritos de Wii U y 3DS en su plena capacidad."
 			},
 			{
 				"question": "¿Mi NNID actual funciona en Pretendo?",
-				"answer": "Tristemente, no. Los NNID no funcionan en Pretendo, ya que solo Nintendo almacena tus datos de usuario; aunque una migración NNID-a-PNID es teóricamente posible, sería arriesgado y requiere datos de usuario sensibles que preferimos no almacenar."
+				"answer": "Tristemente, no. Los NNID no funcionan en Pretendo, ya que solo Nintendo almacena tus datos de usuario. Aunque una migración NNID-a-PNID es teóricamente posible, sería arriesgado y requiere datos de usuario sensibles que preferimos no almacenar."
 			},
 			{
 				"question": "¿Cómo uso Pretendo?",
-				"answer": "Pretendo no está actualmente en un estado adecuado para el uso público. Sin embargo, en cuanto esté podrás usar Pretendo simplemente cargando nuestro parcheador homebrew en tu consola."
+				"answer": "Pretendo no está actualmente en un estado adecuado para el uso público. Sin embargo, en cuanto esté listo podrás usar Pretendo simplemente cargando nuestro parcheador homebrew en tu consola."
 			},
 			{
 				"question": "¿Sabéis cuándo <determinada función/servicio> estará listo/a?",
@@ -49,19 +49,19 @@
 			},
 			{
 				"question": "¿Pretendo funciona en Cemu/emuladores?",
-				"answer": "Pretendo está diseñado para con el hardware de Wii U y 3DS hardware en mente; hasta ahora el único emulador para esas consolas con soporte a NN es Cemu. Cemu no soporta oficialmente servidores personalizados, pero debería ser posible usar Pretendo con Cemu.<br>A día de hoy, Pretendo no soporta Cemu."
+				"answer": "Pretendo está diseñado con el hardware de Wii U y 3DS en mente. Hasta ahora, el único emulador para esas consolas con soporte de NN es Cemu. Cemu no soporta oficialmente servidores personalizados, pero debería ser posible en un futuro llegar a usar Pretendo con Cemu.<br>A día de hoy, Pretendo no soporta Cemu."
 			},
 			{
 				"question": "Si estoy baneado en Nintendo Network, ¿seguiré baneado al usar Pretendo?",
-			"answer": "No tenemos acceso a los baneos de Nintendo Network,  y todos los usuarios no serán baneados en nuestros servicios. Sin embargo, tendremos reglas a seguir cuando se usen nuestros servicios y no hacerlo resultará en un baneo."				
+			"answer": "No tenemos acceso a los baneos de Nintendo Network motivo por el nadie estará baneado en nuestros servidores al principio. Sin embargo, tendremos reglas a seguir al acceder a nuestros servicios y no hacerlo resultará en un baneo."				
 			},
 			{
 				"question": "¿Pretendo soportará Wii/Switch?",
-				"answer": "La Wii ya tiene servidores personalizados de parte de <a href=\"https://wiimmfi.de/\" target=\"_blank\">Wiimmfi</a>. No tenemos planeado trabajar con Switch ya que sus servidores son de pago y completamente diferentes a los de Nintendo Network."
+				"answer": "La Wii ya tiene servidores en línea personalizados de parte de <a href=\"https://wiimmfi.de/\" target=\"_blank\">Wiimmfi</a>. No tenemos planeado trabajar con Switch ya que sus servidores son de pago y completamente diferentes a los de Nintendo Network."
 			},
 			{
 				"question": "¿Necesitaré usar hacks para conectarme?",
-				"answer": "Sí, necesitas modificar tu consola para conectarte, sin embargo, en Wii U solo necesitas acceso al Homebrew Launcher (p.e. Haxchi, Coldboot Haxchi, o el exploit web). La información sobre como conectarse con una 3DS vendrá posteriormente."
+				"answer": "Sí, necesitas modificar tu consola para conectarte. Sin embargo, en Wii U solo necesitas acceso al Homebrew Launcher (p.e. Haxchi, Coldboot Haxchi, o el exploit web). La información sobre como conectarse con una 3DS llegará posteriormente."
 			}
 		]
 	},
@@ -83,7 +83,7 @@
 			},
 			{
 				"name": "superwhiskers",
-				"caption": "Desarrollo de bibliotecas crunch",
+				"caption": "Desarrollo de librerías crunch",
 				"picture": "https://github.com/superwhiskers.png",
 				"github": "https://github.com/superwhiskers"
 			},
